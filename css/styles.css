@@ -4,3 +4,9 @@
 .ready-to-join-bg{
     background-color: #289bde;
 }
+/* media query for banner part */
+@media only screen and (max-width:768px) {
+    .banner-p{
+        font-size: 8px;
+    }
+}
